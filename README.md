@@ -1,2 +1,2 @@
-Updated file from GitHub
+My First Git Practical
 Updated file from GitHub
